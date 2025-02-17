@@ -8,7 +8,7 @@ Once you successfully register an account, the homepage would look like this:
 
 
 Steps:
-
+---
 Create:
 - Item 2
   - Sub-item 1
