@@ -5,3 +5,4 @@ In this project, we used Postman as the primary tool for working with the APIs. 
 
 Once you successfully register an account, the homepage would look like this:
 ![Hompage](images/1-homepage.png)
+
