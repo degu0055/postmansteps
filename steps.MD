@@ -10,10 +10,10 @@ Once you successfully register an account, the homepage would look like this:
 Steps:
 ---
 Create:
-- Item 2
-  - Sub-item 1
+- Workspace
+  - is a shared environment where teams can collaborate on API development, testing, and documentation.
 
-- Item 2
-  - Sub-item 1
+- Collection 
+  - is a group of related API requests for easy testing and sharing
 
-2. Create a collection - a collection is a group of related API requests for easy testing and sharin
+2. Create a  - a collection 
