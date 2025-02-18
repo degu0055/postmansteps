@@ -28,6 +28,15 @@ Steps:
 
 
 ![Configure OAuth2.0 - 2](images/auth2.gif)
+`Fill-up the Configure New Token Form`
+| **Field**           | **Value**                                                                                           |
+|---------------------|-----------------------------------------------------------------------------------------------------|
+| Callback URL        | [https://www.getpostman.com/oauth2/callback](https://www.getpostman.com/oauth2/callback)             |
+| Auth URL            | [https://login.microsoftonline.com/8e70bfc6-d0bb-41ef-920b-e02e1d7ac590/oauth2/v2.0/authorize](https://login.microsoftonline.com/8e70bfc6-d0bb-41ef-920b-e02e1d7ac590/oauth2/v2.0/authorize) |
+| Access Token URL    | [https://login.microsoftonline.com/8e70bfc6-d0bb-41ef-920b-e02e1d7ac590/oauth2/v2.0/token](https://login.microsoftonline.com/8e70bfc6-d0bb-41ef-920b-e02e1d7ac590/oauth2/v2.0/token) |
+| Client ID           | 38a0c582-fa83-4333-95a4-e530349652e2                                                                |
+| Client Secret       | d3d3d3d3-d3d3-d3d3-d3d3-d3d3d3d3d3d3                                                           |
+| Scope               | api://cst8911-restapi/Group.Read.All                                                                |
 
 
 
