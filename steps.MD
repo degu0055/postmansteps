@@ -10,10 +10,13 @@ Once you successfully register an account, the homepage would look like this:
 Steps:
 ---
 Create:
-- **Workspace** is a shared environment where teams can collaborate on API development, testing, and documentation.
+- **Workspace** - is a shared environment where teams can collaborate on API development, testing, and documentation.
 ![Workspace](images/workspace.gif)
 
-- **Collection** is a group of related API requests for easy testing and sharing
+- **Collection** - is a group of related API requests for easy testing and sharing
 ![Collection](images/collection.gif)
+
+- **Perform connection test** - this will verify that the API is accessible and functioning correctly before proceeding with further testing
+![Collection](images/Connection-Test.gif)
 
 
