@@ -39,5 +39,14 @@ Steps:
 | Scope               | api://cst8911-restapi/Group.Read.All                                                                |
 
 
+![Configure OAuth2.0 - 3](images/auth3.gif)
+`Received the token`
++ Click the button 'Get New Access Token'
++ Enter your email
++ Enter the OTP
++ Click the button 'Use Token'
+
+
+
 
 
