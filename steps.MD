@@ -27,5 +27,8 @@ Steps:
 + Auth type drowdown, choose OAuth 2.0
 
 
+![Configure OAuth2.0 - 2](images/auth2.gif)
+
+
 
 
