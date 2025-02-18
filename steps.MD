@@ -11,7 +11,7 @@ Steps:
 ---
 Create:
 - **Workspace** is a shared environment where teams can collaborate on API development, testing, and documentation.
-![Workspace](images/1-homepage.png)
+![Workspace](images/workspace.gif)
 
 - **Collection** is a group of related API requests for easy testing and sharing
 ![Collection](images/1-homepage.png)
