@@ -9,15 +9,15 @@ Once you successfully register an account, the homepage would look like this:
 
 Steps:
 ---
-- ** Create Workspace** - is a shared environment where teams can collaborate on API development, testing, and documentation.
+** Create Workspace** - is a shared environment where teams can collaborate on API development, testing, and documentation.
 ![Workspace](images/workspace.gif)
 
-- **Create Collection** - is a group of related API requests for easy testing and sharing
+**Create Collection** - is a group of related API requests for easy testing and sharing
 ![Collection](images/collection.gif)
 
-- **Perform connection test** - this will verify that the API is accessible and functioning correctly before proceeding with further testing
+**Perform connection test** - this will verify that the API is accessible and functioning correctly before proceeding with further testing
 ![Connection Test](images/Connection-Test.gif)
 
-- **Configure OAuth2.0 Token** - an OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
+**Configure OAuth2.0 Token** - an OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
 
 
