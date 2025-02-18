@@ -22,13 +22,10 @@ Steps:
 
 
 ![Configure OAuth2.0 - 1](images/auth1.gif)
-`Label: asd`
++ Item 1
++ Item 2
++ Item 3
 
 
-test here
-<figure>
-  <img src="images/auth1.gif" alt="Description" width="100%">
-  <figcaption>Caption for the image</figcaption>
-</figure>
 
 
