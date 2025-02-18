@@ -20,5 +20,6 @@ Steps:
 
 **Configure OAuth2.0 Token** - An OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
 ![Configure OAuth2.0 - 1](images/auth1.gif)
+`Label: asd`
 
 
