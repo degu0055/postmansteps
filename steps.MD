@@ -9,7 +9,7 @@ Once you successfully register an account, the homepage would look like this:
 
 Steps:
 ---
-** Create Workspace** - is a shared environment where teams can collaborate on API development, testing, and documentation.
+**Create Workspace** - is a shared environment where teams can collaborate on API development, testing, and documentation.
 ![Workspace](images/workspace.gif)
 
 **Create Collection** - is a group of related API requests for easy testing and sharing
