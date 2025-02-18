@@ -22,9 +22,9 @@ Steps:
 
 
 ![Configure OAuth2.0 - 1](images/auth1.gif)
-+ Item 1
-+ Item 2
-+ Item 3
++ Select ‘POST’ for request type
++ Click the Autorization tab
++ Auth type drowdown, choose OAuth 2.0
 
 
 
