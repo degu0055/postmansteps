@@ -19,4 +19,6 @@ Create:
 - **Perform connection test** - this will verify that the API is accessible and functioning correctly before proceeding with further testing
 ![Connection Test](images/Connection-Test.gif)
 
+- **Configure OAuth2.0 Token** - an OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
+
 
