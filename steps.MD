@@ -57,7 +57,7 @@ Steps:
 ![Configure OAuth2.0 - 3](images/auth3.gif)
 
 
-`Received the token`
+`Use the token`
 + Click the button 'Get New Access Token'
 + Enter your email
 + Enter the OTP
