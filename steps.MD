@@ -17,6 +17,6 @@ Create:
 ![Collection](images/collection.gif)
 
 - **Perform connection test** - this will verify that the API is accessible and functioning correctly before proceeding with further testing
-![Collection](images/Connection-Test.gif)
+![Connection Test](images/Connection-Test.gif)
 
 
