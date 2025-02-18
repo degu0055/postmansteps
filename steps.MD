@@ -19,7 +19,16 @@ Steps:
 ![Connection Testing](images/Connection-Test.gif)
 
 **Configure OAuth2.0 Token** - An OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
+
+
 ![Configure OAuth2.0 - 1](images/auth1.gif)
 `Label: asd`
+
+
+test here
+<figure>
+  <img src="images/auth1.gif" alt="Description" width="100%">
+  <figcaption>Caption for the image</figcaption>
+</figure>
 
 
