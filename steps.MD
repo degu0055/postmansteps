@@ -24,6 +24,8 @@ Steps:
 
 
 **Perform connection test** - This will verify that the API is accessible and functioning correctly before proceeding with further testing
+
+
 ![Connection Testing](images/Connection-Test.gif)
 
 
