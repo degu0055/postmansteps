@@ -14,6 +14,6 @@ Create:
 ![Workspace](images/workspace.gif)
 
 - **Collection** is a group of related API requests for easy testing and sharing
-![Collection](images/1-homepage.png)
+![Collection](images/collection.gif)
 
 
