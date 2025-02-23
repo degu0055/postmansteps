@@ -7,7 +7,6 @@ Once you successfully register and log in to the account, the homepage will look
 ![Homepage](images/1-homepage.png)
 
 ## Steps:
----
 
 ### **Create Workspace**
 A workspace is a shared environment that enables teams to collaborate on API development, testing, and documentation.
