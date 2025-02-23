@@ -33,7 +33,6 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 - In the Auth type dropdown, choose OAuth 2.0.
 
 ![Configure OAuth2.0 - 2](images/auth2.gif)
-
 #### Fill-up the Configure New Token Form
 
 | **Field**           | **Value**                                                                                           |
