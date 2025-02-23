@@ -45,9 +45,10 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 | Client Secret       | d3d3d3d3-d3d3-d3d3-d3d3-d3d3d3d3d3d3                                                           |
 | Scope               | api://cst8911-restapi/Group.Read.All                                                                |
 
+### **Use the token**
+
 ![Configure OAuth2.0 - 3](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/auth3.gif)
 
-#### Use the token
 - Click the button 'Get New Access Token'.
 - Enter your email.
 - Enter the OTP.
