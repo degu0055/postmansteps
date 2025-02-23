@@ -52,6 +52,8 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 - Enter the OTP.
 - Click the button 'Use Token'.
 
-___
+--- 
+
+Now that we have gained the token, *POST* can now be made 
 
 
