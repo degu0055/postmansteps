@@ -56,10 +56,12 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 
 Now that we have gained the token, this means **POST** can be made on the object. In this case, we're going to create a course list for  the specific **User**.
 
-![Post](images/create.gif)
-
 > [!IMPORTANT]
 > All the REST API requires a default key for authentication and a JWT token for role control, unless otherwise specified in the documentation below.
+
+![Post](images/create.gif)
+
+
 
 
 
