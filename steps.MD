@@ -34,7 +34,7 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 
 ![Configure OAuth2.0 - 2](images/auth2.gif)
 
-#### `Fill-up the Configure New Token Form`
+#### Fill-up the Configure New Token Form
 
 | **Field**           | **Value**                                                                                           |
 |---------------------|-----------------------------------------------------------------------------------------------------|
@@ -47,7 +47,7 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 
 ![Configure OAuth2.0 - 3](images/auth3.gif)
 
-#### `Use the token`
+#### Use the token
 - Click the button 'Get New Access Token'.
 - Enter your email.
 - Enter the OTP.
