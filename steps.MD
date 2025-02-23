@@ -58,3 +58,6 @@ Now that we have gained the token, this means **POST** can be made on the obje
 
 ![Post](images/create.gif)
 
+> **Note:** All the REST API requires a default key for authentication and a JWT token for role control, unless otherwise specified in the documentation below.
+
+
