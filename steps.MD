@@ -32,8 +32,9 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 - Click the Authorization tab.
 - In the Auth type dropdown, choose OAuth 2.0.
 
+### **Fill-up the Configure New Token Form**
+
 ![Configure OAuth2.0 - 2](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/auth2.gif)
-#### Fill-up the Configure New Token Form
 
 | **Field**           | **Value**                                                                                           |
 |---------------------|-----------------------------------------------------------------------------------------------------|
