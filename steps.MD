@@ -1,5 +1,5 @@
 # Postman
----
+
 In this project, we used Postman as the primary tool for working with the APIs. This tool serves as a bridge to communicate on different APIs, allowing users to perform the CRUD or Create, Update, and Delete. With the Postman interface, it makes working with the API easier as you can organize API requests into collections, automate testing, and work with the team.
 
 Once you successfully register and log in to the account, the homepage will look like this:
