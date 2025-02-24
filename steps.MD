@@ -91,6 +91,12 @@ Code:
 }
 ```
 
+### **Submit Assignment**
+![Submit Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/submitAssignment.gif) 
+
+Code:
+```json { "userId": "user123", "courseId": "cst8911", "assignmentId": "Assignment1" } ```
+
 
 
 
