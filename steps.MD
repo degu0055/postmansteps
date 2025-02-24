@@ -112,6 +112,8 @@ Requirements:
 
 ---
 
+### **GET Method**
+
 
 
 
