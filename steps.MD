@@ -98,7 +98,7 @@ Requirements:
 
 - File = CST8916.pdf
 
-- Code:
+- metadata:
 
 ```json
 {
