@@ -156,5 +156,13 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getAssignmentList?courseId=cst8911` to it.
 
+test
+> **Left Side**
+> - Item 1
+> - Item 2
+
+> **Right Side**
+> - Item A
+> - Item B
 
 
