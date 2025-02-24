@@ -96,8 +96,6 @@ Code:
 ### **Submit Assignment**
 ![Submit Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/submitAssignment.gif) 
 
-Requirements:
-
 - File = CST8916.pdf
 
 - Meta:
@@ -122,7 +120,7 @@ The GET request is used to retrieve data from a server. It asks the server to se
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
-2. Append `/getUser?course=cst8911` to it.
+2. Append `getUser?course=cst8911` to it.
 
 Result:
 ```json
@@ -142,7 +140,7 @@ Result:
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
-2. Append `/getUser?email=youremail@gmail.com` to it.
+2. Append `getUser?email=youremail@gmail.com` to it.
 
 Result:
 ```json
@@ -170,7 +168,7 @@ Result:
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
-2. Append `/getUser?id=yourID` to it.
+2. Append `getUser?id=yourID` to it.
 
 Result:
 ```json
@@ -190,7 +188,7 @@ Result:
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
-2. Append `/getAssignments?courseId=cst8911&assignmentId=Assignment1` to it.
+2. Append `getAssignments?courseId=cst8911&assignmentId=Assignment1` to it.
 
 Result:
 ```json
@@ -209,7 +207,7 @@ Result:
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
-2. Append `/getAssignmentList?courseId=cst8911` to it.
+2. Append `getAssignmentList?courseId=cst8911` to it.
 
 Result:
 ```json
