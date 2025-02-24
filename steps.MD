@@ -120,7 +120,8 @@ The GET request is used to retrieve data from a server. It asks the server to se
 
 To fetch user details for the `cst8911` course, use the following API request:
 
-https://rest-api.azurewebsites.net/api/`getUser?course=cst8911`
+https://rest-api.azurewebsites.net/api/<mark>getUser?course=cst8911</mark>
+
 
 
 
