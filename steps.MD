@@ -156,18 +156,5 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getAssignmentList?courseId=cst8911` to it.
 
-test
-<div style="display: flex;">
-  <div style="flex: 1; padding-right: 10px;">
-    **Left Content**
-    - Item 1
-    - Item 2
-  </div>
-  <div style="flex: 1; padding-left: 10px;">
-    **Right Content**
-    - Item A
-    - Item B
-  </div>
-</div>
 
 
