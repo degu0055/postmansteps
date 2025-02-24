@@ -150,7 +150,7 @@ Use the following API request:
 
 ### Fetch assignments list using the `courseId`
 
-![GET Assignment List](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getAssignmentList.gif) 
+![GET Assignment List](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getAssignmentList2.gif) 
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
