@@ -67,6 +67,10 @@ Now that we have gained the token, this means a **POST** request can be made on 
 
 ![Add Course list](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/create.gif)
 
+Use the following API request:
+1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
+2. Append `addUser` to it.
+
 Code:
 
 ```json
@@ -82,6 +86,10 @@ Code:
 
 ![Add Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/addAssignment.gif)
 
+Use the following API request:
+1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
+2. Append `addAssignment` to it.
+
 Code:
 
 ```json
@@ -95,6 +103,12 @@ Code:
 
 ### **Submit Assignment**
 ![Submit Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/submitAssignment.gif) 
+
+Use the following API request:
+1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
+2. Append `submitAssignment?code=[code here]` to it.
+
+Enter:
 
 - File = CST8916.pdf
 
