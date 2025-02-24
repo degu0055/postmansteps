@@ -63,10 +63,10 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 
 ![Configure OAuth2.0 - 3](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/auth3.gif)
 
-- Click the button `Get New Access Token`.
-- Enter your email.
-- Enter the OTP.
-- Click the button `Use Token`.
+1. Click the button `Get New Access Token`.
+2. Enter your email.
+3. Enter the OTP.
+4. Click the button `Use Token`.
 
 --- 
 
