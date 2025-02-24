@@ -157,12 +157,9 @@ Use the following API request:
 2. Append `/getAssignmentList?courseId=cst8911` to it.
 
 test
-> **Left Side**
-> - Item 1
-> - Item 2
-
-> **Right Side**
-> - Item A
-> - Item B
+| Column 1 | Column 2 |
+|----------|----------|
+| Content 1 | Content 2 |
+| More content | More content |
 
 
