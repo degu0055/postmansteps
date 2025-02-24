@@ -116,7 +116,7 @@ Requirements:
 
 The GET request is used to retrieve data from a server. It asks the server to send back information, like details from a website or a database. It's commonly used to fetch data without making any changes to the server.
 
-###Fetch user details using the `cst8911` course
+### Fetch user details using the `cst8911` course
 
 ![GET Course](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getCourse.gif) 
 
@@ -124,7 +124,7 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getUser?course=cst8911` to it.
 
-###Fetch user details using the `email`
+### Fetch user details using the `email`
 
 ![GET Email](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getEmail.gif) 
 
