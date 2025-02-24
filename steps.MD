@@ -65,6 +65,17 @@ Now that we have gained the token, this means **POST** can be made on the obje
 
 ![Add Course list](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/create.gif)
 
+Code:
+
+```json
+{
+  "courseList": [
+    { "cst8911": "Introduction to Cloud Computing" },
+    { "cst8916": "Remote Data" }
+  ]
+}
+```
+
 ### **Add Assignment**
 
 ![Add Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/addAssignment.gif)
