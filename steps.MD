@@ -13,8 +13,8 @@ A workspace is a shared environment that enables teams to collaborate on API dev
 
 ![Workspace](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/workspace.gif)
 
-1. **Workspaces** tab
-2. Click **Create Workspace**
+1. `Workspaces` tab
+2. Click `Create Workspace`
 3. Select workspace type
 4. Name your workspace
 
@@ -23,7 +23,7 @@ A collection is a set of related API requests designed for easy testing and shar
 
 ![Collection](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/collection.gif)
 
-1. Click **+**
+1. Click `+`
 2. Blank Collection
 3. Name your Collection
 
@@ -32,9 +32,9 @@ This will verify that the API is accessible and functioning correctly before pro
 
 ![Connection Testing](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/Connection-Test.gif)
 
-1. Click **New**
-2. Select **HTTP**
-3. Make sure that the request type is selected is **GET**
+1. Click `New`
+2. Select `HTTP`
+3. Make sure that the request type is selected is `GET`
 3. Paste the URL(endpoint) then send
 
 ### **Configure OAuth2.0 Token**
@@ -42,7 +42,7 @@ An OAuth 2.0 token is a digital key that authenticates API requests, proving you
 
 ![Configure OAuth2.0 - 1](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/auth1.gif)
 
-1. Select ‘POST’ for request type.
+1. Select `POST` for request type.
 2. Click the Authorization tab.
 3. In the Auth type dropdown, choose OAuth 2.0.
 
