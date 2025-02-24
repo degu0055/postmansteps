@@ -124,6 +124,18 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getUser?course=cst8911` to it.
 
+Result:
+```json
+    {
+        "id": "5e99a784-5544-483f-8613-05100212c1a7",
+        "name": "Zee Lu",
+        "email": "zeel981210@gmail.com",
+        "roles": [
+            "Student"
+        ]
+    }
+```
+
 ### Fetch user details using the `email`
 
 ![GET Email](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getEmail.gif) 
@@ -131,6 +143,26 @@ Use the following API request:
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getUser?email=youremail@gmail.com` to it.
+
+Result:
+```json
+    {
+        "id": "3549d894-e8df-4a94-8010-6cfa6bb6ba4a",
+        "name": "Zee Lu",
+        "email": "zeel981210@gmail.com",
+        "roles": [
+            "Student"
+        ],
+        "courseList": [
+            {
+                "cst8911": "Introduction to Cloud Computing"
+            },
+            {
+                "cst8916": "Remote Data"
+            }
+        ]
+    }
+```
 
 ### Fetch user details using the `id`
 
@@ -140,6 +172,18 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getUser?id=yourID` to it.
 
+Result:
+```json
+    {
+        "id": "5e99a784-5544-483f-8613-05100212c1a7",
+        "name": "Zee Lu",
+        "email": "zeel981210@gmail.com",
+        "roles": [
+            "Student"
+        ]
+    }
+```
+
 ### Fetch assignments details using the `courseId` and `assignmentId`
 
 ![GET Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getAssignment.gif) 
@@ -148,6 +192,17 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getAssignments?courseId=cst8911&assignmentId=Assignment1` to it.
 
+Result:
+```json
+    {
+        "id": "65855dd8-9bf3-4ba7-bcdc-7f324aaa6a48",
+        "userId": "user123",
+        "fileName": "CST8916.pdf",
+        "submissionDate": "2025-02-17T00:21:37.507Z",
+        "downloadUrl": "https://cst8911storage.blob.core.windows.net/cst8911/cst8911/Assignment1/user123/CST8916.pdf"
+    }
+```
+
 ### Fetch assignments list using the `courseId`
 
 ![GET Assignment List](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getAssignmentList2.gif) 
@@ -155,6 +210,19 @@ Use the following API request:
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getAssignmentList?courseId=cst8911` to it.
+
+Result:
+```json
+    {
+        "id": "0aeec4c5-eee0-426e-8655-f7b09d1499da",
+        "courseId": "cst8915",
+        "assignmentId": "Assignment1",
+        "title": "First Assignment",
+        "content": "Cloud native assignment 1",
+        "createdDate": "2025-02-17T04:23:19.545Z",
+        "lastUpdated": "2025-02-17T04:23:19.545Z"
+    }
+```
 
 
 
