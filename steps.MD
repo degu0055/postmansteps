@@ -64,9 +64,9 @@ Now that we have gained the token, this means **POST** can be made on the obje
 ### **Course List** 
 ![Post](images/create.gif)
 
-### **Add Assignment **
+### **Add Assignment**
 
-### **Submit Assignment ** 
+### **Submit Assignment** 
 
 ---
 
