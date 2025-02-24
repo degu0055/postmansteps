@@ -132,5 +132,13 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getUser?email=youremail@gmail.com` to it.
 
+### Fetch user details using the `id`
+
+![GET Email](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getID.gif) 
+
+Use the following API request:
+1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
+2. Append `/getUser?id=yourID` to it.
+
 
 
