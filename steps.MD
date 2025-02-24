@@ -32,6 +32,10 @@ This will verify that the API is accessible and functioning correctly before pro
 
 ![Connection Testing](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/Connection-Test.gif)
 
+1. Click **New**
+2. Select **HTTP**
+3. Paste the URL then send
+
 ### **Configure OAuth2.0 Token**
 An OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
 
