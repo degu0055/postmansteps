@@ -70,7 +70,7 @@ Now that we have gained the token, this means **POST** can be made on the obje
 ![Add Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/addAssignment.gif)
 
 
-sample code
+Sample code:
 
 ```json
 {
