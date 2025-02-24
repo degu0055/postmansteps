@@ -62,9 +62,10 @@ Now that we have gained the token, this means **POST** can be made on the obje
 > All the REST API requires a default key for authentication and a JWT token for role control, unless otherwise specified in the documentation below.
 
 ### **Add Course List** 
-![Post](images/create.gif)
+![Add Course list](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/create.gif)
 
 ### **Add Assignment**
+![Add Assignment](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/addAssignment.gif)
 
 ### **Submit Assignment** 
 
