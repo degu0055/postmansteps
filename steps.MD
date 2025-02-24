@@ -130,7 +130,7 @@ Use the following API request:
 
 Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
-2. Append `/getUser?email=zeel981210@gmail.com` to it.
+2. Append `/getUser?email=youremail@gmail.com` to it.
 
 
 
