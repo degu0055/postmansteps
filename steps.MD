@@ -148,5 +148,13 @@ Use the following API request:
 1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
 2. Append `/getAssignments?courseId=cst8911&assignmentId=Assignment1` to it.
 
+### Fetch assignments list using the `courseId`
+
+![GET Assignment List](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/getAssignmentList.gif) 
+
+Use the following API request:
+1. Replace `https://rest-api.azurewebsites.net/api/` with your base URL.
+2. Append `/getAssignmentList?courseId=cst8911` to it.
+
 
 
