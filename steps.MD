@@ -11,6 +11,11 @@ Once you successfully register and log in to the account, the homepage will look
 ### **Create Workspace**
 A workspace is a shared environment that enables teams to collaborate on API development, testing, and documentation.
 
+1. **Workspaces** tab
+2. Click **Create Workspace**
+3. Select workspace type
+4. Name your workspace
+
 ![Workspace](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/workspace.gif)
 
 ### **Create Collection**
