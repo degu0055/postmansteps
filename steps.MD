@@ -114,6 +114,7 @@ Requirements:
 
 ### **GET Method**
 
+The GET request is used to retrieve data from a server. It asks the server to send back information, like details from a website or a database. It's commonly used to fetch data without making any changes to the server.
 
 
 
