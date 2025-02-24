@@ -23,6 +23,10 @@ A collection is a set of related API requests designed for easy testing and shar
 
 ![Collection](https://raw.githubusercontent.com/degu0055/postmansteps/refs/heads/main/images/collection.gif)
 
+1. Click **+**
+2. Blank Collection
+3. Name your Collection
+
 ### **Perform Connection Test**
 This will verify that the API is accessible and functioning correctly before proceeding with further testing.
 
