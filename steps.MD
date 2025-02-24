@@ -34,7 +34,8 @@ This will verify that the API is accessible and functioning correctly before pro
 
 1. Click **New**
 2. Select **HTTP**
-3. Paste the URL then send
+3. Make sure that the request type is selected is **GET**
+3. Paste the URL(endpoint) then send
 
 ### **Configure OAuth2.0 Token**
 An OAuth 2.0 token is a digital key that authenticates API requests, proving you have permission to access data or perform actions.
